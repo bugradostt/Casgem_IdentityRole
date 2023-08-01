@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Casgem_IdentityRole.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Casgem_IdentityRole.props" />
+</Project>
