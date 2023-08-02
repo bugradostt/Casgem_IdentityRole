@@ -1,5 +1,9 @@
+using Casgem_IdentityRole.Dal;
+
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddDbContext<Context>();
+builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
@@ -18,6 +22,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

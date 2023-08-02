@@ -1,0 +1,56 @@
+﻿@model List<Casgem_IdentityRole.Dal.AppRole>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container">
+
+    <br />
+    <br />
+    <h1>Role Listesi</h1>
+    <a href="/Role/AddRole/" class="btn btn-success">Ekle</a>
+    <hr />
+    <br />
+
+
+    <table class="table table-striped">
+
+        <tr>
+            <th>#</th>
+            <th>Role Adı</th>
+            <th></th>
+            <th></th>
+        </tr>
+
+
+        @{
+            int a = 1;
+        }
+        @foreach (var i in Model)
+        {
+            <tr>
+                <th>@a</th>
+                <td>@i.Name</td>
+                <td>
+                    <a href="/Role/DeleteRole/@i.Id" class="btn btn-danger">Sil</a>
+                </td>
+
+                <td>
+                    <a href="/Role/EditRole/@i.Id" class="btn btn-warning">Güncelle</a>
+                </td>
+            </tr>
+
+            a++;
+
+        }
+
+
+
+    </table>
+</div>

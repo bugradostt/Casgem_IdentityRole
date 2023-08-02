@@ -1,0 +1,47 @@
+﻿@model LoginViewModel
+
+@{
+    Layout = null;
+
+}
+
+
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container">
+
+    <br />
+    <br />
+    <br />
+    <h1>Giriş Yap</h1>
+    <br />
+
+    <form method="post">
+
+
+       
+        <div class="mb-3">
+            <label>Kullanıcı Adınız</label>
+            <input type="text" class="form-control" asp-for="UserName" placeholder="Kullanıcı adınız" />
+
+        </div>
+        <div class="mb-3">
+            <label>Şifreniz</label>
+            <input type="password" class="form-control" asp-for="Password" placeholder="Şifreniz" />
+
+        </div>
+
+        <div class="mb-3">
+
+            <a class="btn btn-dark" href="/Role/ListUser/">Anasayfa</a>
+            <a class="btn btn-info" target="_blank" href="/Register/Index/">Üye Ol</a>
+            <input type="submit" class="btn btn-success" value="Giriş Yap" />
+
+        </div>
+
+    </form>
+
+
+
+</div>

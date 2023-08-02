@@ -1,0 +1,42 @@
+﻿@model RoleAddViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container">
+
+    <br />
+    <br />
+    <h1>Role Ekle</h1>
+    <br />
+
+    <form method="post">
+
+
+
+        <div class="mb-3">
+            <label>Kullanıcı Adınız</label>
+            <input type="text" class="form-control" asp-for="Name" placeholder="Role adı" />
+
+        </div>
+       
+
+
+        <div class="mb-3">
+
+            <a class="btn btn-danger" href="/Role/ListRole/">İptal</a>
+            <input type="submit" class="btn btn-success" value="Ekle" />
+
+        </div>
+
+    </form>
+
+
+
+</div>
