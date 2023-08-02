@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Casgem_IdentityRole
 build_property.RootNamespace = Casgem_IdentityRole
-build_property.ProjectDir = C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_IdentityRole\Casgem_IdentityRole\
+build_property.ProjectDir = c:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_IdentityRole\Casgem_IdentityRole\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_IdentityRole\Casgem_IdentityRole
+build_property.MSBuildProjectDirectory = c:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_IdentityRole\Casgem_IdentityRole
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Login/Index.cshtml]
+[c:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Register/Index.cshtml]
+[c:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Register/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Role/AddRole.cshtml]
+[c:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Role/AddRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBZGRSb2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Role/AssignRole.cshtml]
+[c:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Role/AssignRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBc3NpZ25Sb2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Role/EditRole.cshtml]
+[c:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Role/EditRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxFZGl0Um9sZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Role/ListRole.cshtml]
+[c:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Role/ListRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxMaXN0Um9sZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Role/ListUser.cshtml]
+[c:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Role/ListUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxMaXN0VXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Shared/Error.cshtml]
+[c:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/_ViewImports.cshtml]
+[c:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/_ViewStart.cshtml]
+[c:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Shared/_Layout.cshtml]
+[c:/Users/bugra/Desktop/1- Dosya/1-Projeler/casgem/Casgem_IdentityRole/Casgem_IdentityRole/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-d7jh1kgoxh
